@@ -10,6 +10,6 @@ Add pdcurse.lib to VS project
 
 ![image](https://github.com/user-attachments/assets/963cc9cb-479b-46b9-921b-6beed88667f8)
 
-add #include "curses.h"
+add ```#include "curses.h"```
 to main source file
 
