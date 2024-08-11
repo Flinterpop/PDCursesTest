@@ -1,0 +1,3 @@
+﻿  CursesTest.cpp
+C:\Users\Brad\source\repos\CursesTest\curses.h(190,9): warning C4005: 'MOUSE_MOVED': macro redefinition
+  CursesTest.vcxproj -> C:\Users\Brad\source\repos\CursesTest\x64\Debug\CursesTest.exe

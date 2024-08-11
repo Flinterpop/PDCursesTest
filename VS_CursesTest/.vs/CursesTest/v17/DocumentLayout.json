@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brad\\source\\repos\\CursesTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF4E17-0E5D-4E9E-9FD8-9630BCCC0C3A}|CursesTest.vcxproj|C:\\Users\\Brad\\source\\repos\\CursesTest\\CursesTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DF4E17-0E5D-4E9E-9FD8-9630BCCC0C3A}|CursesTest.vcxproj|solutionrelative:CursesTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursesTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Brad\\source\\repos\\CursesTest\\CursesTest.cpp",
+              "RelativeDocumentMoniker": "CursesTest.cpp",
+              "ToolTip": "C:\\Users\\Brad\\source\\repos\\CursesTest\\CursesTest.cpp",
+              "RelativeToolTip": "CursesTest.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T00:16:16.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
