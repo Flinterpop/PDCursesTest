@@ -1,5 +1,7 @@
 # PDCursesTest
 My Code and procedures for using PDCurses
+https://github.com/wmcbrine/PDCurses
+
 
 
 Build PDCurses library using x86 Native Tools Command Prompt for VS 2022:
