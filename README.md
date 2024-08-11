@@ -1,7 +1,13 @@
 # PDCursesTest
-My Code and procedures for using PDCurses
+My Code and procedures for using PDCurses:
+
 https://github.com/wmcbrine/PDCurses
 
+Info on Curses:
+https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/ref.html
+http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/NCURSES-Programming-HOWTO.pdf
+https://invisible-island.net/ncurses/ncurses-intro.html
+https://rabbitboots.com/blog/2016/11/02/pdcurses/
 
 
 Build PDCurses library using x86 Native Tools Command Prompt for VS 2022:
@@ -15,3 +21,14 @@ Add pdcurse.lib to VS project
 add ```#include "curses.h"```
 to main source file
 
+Temp Leave Curses:
+
+```c
+addstr("Shelling out...");
+def_prog_mode();           /* save current tty modes */
+endwin();                  /* restore original tty modes */
+system("sh");              /* run shell */
+printf("stuff");
+addstr("returned.\n");     /* prepare return message */
+refresh();                 /* restore save modes, repaint screen */
+```
