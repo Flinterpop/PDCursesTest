@@ -4,10 +4,10 @@ My Code and procedures for using PDCurses:
 https://github.com/wmcbrine/PDCurses
 
 Info on Curses:
-https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/ref.html
-http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/NCURSES-Programming-HOWTO.pdf
-https://invisible-island.net/ncurses/ncurses-intro.html
-https://rabbitboots.com/blog/2016/11/02/pdcurses/
+- https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/ref.html
+- http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/NCURSES-Programming-HOWTO.pdf
+- https://invisible-island.net/ncurses/ncurses-intro.html
+- https://rabbitboots.com/blog/2016/11/02/pdcurses/
 
 
 Build PDCurses library using x86 Native Tools Command Prompt for VS 2022:
